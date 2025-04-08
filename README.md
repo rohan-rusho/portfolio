@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan292&label=Profile%20views&color=0e75b6&style=flat&count=1200" alt="rohan292" /> </p>
 
 [![Gmail Badge](https://img.shields.io/badge/-rohan.rusho@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rohan.rusho@gmail.com)](mailto:rohan.rusho@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-rohan-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-rusho/)](https://www.linkedin.com/in/rohan-rusho/) 
-[![Github Badge](https://img.shields.io/badge/-rohan-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rohan-rusho/)](https://github.com/rohan-rusho/) 
-[![Facebook Badge](https://img.shields.io/badge/-eita.rohan-1877F2?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/eita.rohan)](https://facebook.com/eita.rohan) 
-[![Instagram Badge](https://img.shields.io/badge/-rohan.rusho-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/rohan.rusho)](https://instagram.com/rohan.rusho)
+[![Linkedin Badge](https://img.shields.io/badge/-Rohan-Rusho-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-rusho/)](https://www.linkedin.com/in/rohan-rusho/) 
+[![Github Badge](https://img.shields.io/badge/-Rohan-Rusho-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rohan-rusho/)](https://github.com/rohan-rusho/) 
+[![Facebook Badge](https://img.shields.io/badge/-Rohan-Rusho-1877F2?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/eita.rohan)](https://facebook.com/eita.rohan) 
+[![Instagram Badge](https://img.shields.io/badge/-Rohan-Rusho-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/rohan.rusho)](https://instagram.com/rohan.rusho)
 
 - 🌱 I’m currently learning **Flutter, Firebase, Docker**
 - 💬 Ask me about **Java, React, Firebase, Node.js**
