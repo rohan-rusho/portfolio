@@ -34,4 +34,4 @@
 | **BUBT Food**        | React, Firebase, Tailwind CSS                                                                 | [BUBT Food](https://bubt-food.netlify.app/) |
 | **Roadmap**          | Personal Development Roadmap                                                                  | [Roadmap](https://roadmap.sh/u/rusho)    |
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e6f2d9b128dce3cb6
+
