@@ -21,7 +21,7 @@
 </p>
 
 ### 💻 Tools and Languages:
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,git,flutter,react,nextjs,nodejs,postgres,cloudflare,express,mongodb,docker,ubuntu,figma)](github.com/rohan292)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,git,flutter,react,nextjs,nodejs,postgres,cloudflare,express,mongodb,docker,ubuntu,figma)](github.com/rohan-rusho)
 
 ## Projects
 
