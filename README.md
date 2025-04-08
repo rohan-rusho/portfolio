@@ -3,10 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan292&label=Profile%20views&color=0e75b6&style=flat&count=1200" alt="rohan292" /> </p>
 
-[![Gmail Badge](https://img.shields.io/badge/-rohan292@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rohan292@gmail.com)](mailto:rohan292@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-rohan.rusho@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rohan.rusho@gmail.com)](mailto:rohan.rusho@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-rohan292-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-rusho/)](https://www.linkedin.com/in/rohan-rusho/) 
-[![Github Badge](https://img.shields.io/badge/-rohan292-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rohan292/)](https://www.github.com/rohan292/) 
-[![Twitter Badge](https://img.shields.io/badge/-rohan292-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rohan292/)](https://www.twitter.com/rohan292/)
+[![Github Badge](https://img.shields.io/badge/-rohan292-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rohan-rusho/)](https://github.com/rohan-rusho/) 
+[![Facebook Badge](https://img.shields.io/badge/-eita.rohan-1877F2?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/eita.rohan)](https://facebook.com/eita.rohan) 
+[![Instagram Badge](https://img.shields.io/badge/-rohan.rusho-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/rohan.rusho)](https://instagram.com/rohan.rusho)
 
 - 🌱 I’m currently learning **Flutter, Firebase, Docker**
 - 💬 Ask me about **Java, React, Firebase, Node.js**
@@ -33,5 +34,3 @@
 | **E-Home Pro**       | React, Firebase, Tailwind CSS                                                                 | [E-Home Pro](https://e-home-pro.netlify.app/) |
 | **BUBT Food**        | React, Firebase, Tailwind CSS                                                                 | [BUBT Food](https://bubt-food.netlify.app/) |
 | **Roadmap**          | Personal Development Roadmap                                                                  | [Roadmap](https://roadmap.sh/u/rusho)    |
-
-
