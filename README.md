@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan292&label=Profile%20views&color=0e75b6&style=flat" alt="rohan292" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan292&label=Profile%20views&color=0e75b6&style=flat&count=1200" alt="rohan292" /> </p>
 
 [![Gmail Badge](https://img.shields.io/badge/-rohan292@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rohan292@gmail.com)](mailto:rohan292@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-rohan292-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-rusho/)](https://www.linkedin.com/in/rohan-rusho/) 
@@ -34,5 +34,4 @@
 | **BUBT Food**        | React, Firebase, Tailwind CSS                                                                 | [BUBT Food](https://bubt-food.netlify.app/) |
 | **Roadmap**          | Personal Development Roadmap                                                                  | [Roadmap](https://roadmap.sh/u/rusho)    |
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e6f2d9b128dce3cb6d5719?variant=light)](https://roadmap.sh/u/rusho)
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e6f2d9b128dce3cb6
