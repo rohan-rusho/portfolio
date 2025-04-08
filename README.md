@@ -1,6 +1,3 @@
-Here’s a modified version of the profile you provided, adjusted to fit your preferences:
-
-```markdown
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
@@ -36,6 +33,3 @@ Here’s a modified version of the profile you provided, adjusted to fit your pr
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e6f2d9b128dce3cb6d5719?variant=light)](https://roadmap.sh)
 
-```
-
-Let me know if you'd like any further adjustments!
