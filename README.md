@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan292&label=Profile%20views&color=0e75b6&style=flat&count=1200" alt="rohan292" /> </p>
+
 <p align="left">
   📧 Email: <a href="mailto:rohan.rusho@gmail.com">rohan.rusho@gmail.com</a> <br>
   📷 Instagram: <a href="https://instagram.com/roahn.rusho">@roahn.rusho</a> <br>
   👤 Facebook: <a href="https://facebook.com/eita.rohan">eita.rohan</a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan292&label=Profile%20views&color=0e75b6&style=flat&count=1200" alt="rohan292" /> </p>
+
 
 [![Gmail Badge](https://img.shields.io/badge/-rohan.rusho@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rohan.rusho@gmail.com)](mailto:rohan.rusho@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Rohan_Rusho-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-rusho/)](https://www.linkedin.com/in/rohan-rusho/) 
