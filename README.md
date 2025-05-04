@@ -7,7 +7,6 @@
 
 <p align="left">
   📧 Email: <a href="mailto:rohan.rusho@gmail.com">rohan.rusho@gmail.com</a> <br>
-  📱 Phone: +88017196**8186 <br>
   📷 Instagram: <a href="https://instagram.com/roahn.rusho">@roahn.rusho</a> <br>
   👤 Facebook: <a href="https://facebook.com/eita.rohan">eita.rohan</a>
 </p>
