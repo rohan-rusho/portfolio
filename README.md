@@ -4,7 +4,7 @@
 
 <p align="left">
   📧 Email: <a href="mailto:rohan.rusho@gmail.com">rohan.rusho@gmail.com</a> <br>
-  📷 Instagram: <a href="https://instagram.com/rohan.rusho">@roahn.rusho</a> <br>
+  📷 Instagram: <a href="https://instagram.com/rohan.rusho">@rohan.rusho</a> <br>
   👤 Facebook: <a href="https://facebook.com/eita.rohan">eita.rohan</a>
 </p>
 
